@@ -1,6 +1,7 @@
 .navbar{
-    background-color: yellow;
-    color: black;
+    background-color: black;
+    color:orange;
+    padding: 10px;
 }
 .nav-brand{
     display: inline-block;
@@ -12,6 +13,6 @@
     margin: 0px 10px;
     font-size: 20px;
     text-decoration: none;
-    color: black;
+    color: aliceblue;
 
 }
